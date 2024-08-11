@@ -12,7 +12,7 @@
 ## 获取代码
 
 ```bash
-git clone https://github.com/light-ly/chisel-template
+git clone git@github.com:lqi666/chisel-template.git
 ```
 
 ## 运行工程
